@@ -7,3 +7,5 @@ FUTURE UPDATE NOTES
 - Fix issue with no displaying all the listings
 - Organise code
 
+Intro Screen: 
+![](name-of-giphy.gif)
