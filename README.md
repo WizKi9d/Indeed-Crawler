@@ -9,7 +9,7 @@ My app will help maximise your opportunities by making sure you're not wasting y
 - [ ] Create database
 - [x] Fix issue with no displaying all the listings 
     - Now displays all relevant listings that have information added by employer
-- [ ] Organise code
+- [x] Organise code
 - [x] Create a start screen 
  
 
