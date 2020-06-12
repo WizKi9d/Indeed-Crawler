@@ -14,3 +14,7 @@ A simple web crawler written in c# to find jobs that you have the experience for
 ## Start Screen:
 
 ![](IndeedCrawler.gif)
+
+## Working showcase:
+
+![](IndeedCrawlerShowcase.gif)
